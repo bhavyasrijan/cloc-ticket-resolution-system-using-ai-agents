@@ -1,0 +1,13 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.4.2
+requests==2.31.0
+python-dotenv==1.0.0
+langchain==0.0.335
+langchain-groq==0.1.0
+langgraph==0.0.20
+opentelemetry-sdk==1.20.0
+opentelemetry-exporter-otlp==1.20.0
+opentelemetry-instrumentation==0.41b0
+opentelemetry-instrumentation-fastapi==0.41b0
+opentelemetry-instrumentation-requests==0.41b0
